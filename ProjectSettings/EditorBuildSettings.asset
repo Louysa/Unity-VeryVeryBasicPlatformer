@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2014f9941a298e545bb34711e9446170
+  - enabled: 1
+    path: Assets/Scenes/deneme2.unity
+    guid: 66c138f1b27ba114a849abec0c7f8421
+  - enabled: 1
+    path: Assets/Scenes/deneme3.unity
+    guid: d06dd3baf7949d842ac2ef3aafc7fff7
+  - enabled: 1
+    path: Assets/Scenes/Finish.unity
+    guid: b9f8cbff801c1bb44a98fcfe1340b19c
+  - enabled: 1
+    path: Assets/Scenes/overScene.unity
+    guid: e600db13f339be24cb823d127b87e59c
+  m_configObjects: {}
